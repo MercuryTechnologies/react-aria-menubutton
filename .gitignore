@@ -2,4 +2,3 @@ node_modules
 demo/demo-bundle.js
 *.log
 umd
-dist
